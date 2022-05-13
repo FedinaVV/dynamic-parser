@@ -1,0 +1,14 @@
+
+@media screen and (max-width:875px){
+   .main__form{width: 100%;}
+   }
+
+   @media screen and (max-width:479px){
+      .label-checkbox-technology{min-width: 50%;}
+      }
+
+ @media screen and (max-width:384px){
+    .main__btns{flex-direction: column; max-width: 100%;}
+    .btns-input-wrapper{margin: 0 0 15px 0;}
+    .contRef{flex-direction: column;}
+    }
